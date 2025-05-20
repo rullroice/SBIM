@@ -1,4 +1,4 @@
-# Tunomático – Sistema de Gestión de Turnos Digitales
+# Tunomático – Sistema de Turnos
 
 ## Introducción
 
